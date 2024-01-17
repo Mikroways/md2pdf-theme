@@ -1,6 +1,6 @@
 {
   "name": "@mikroways/md2pdf-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mikroways md2pdf themes",
   "main": "config.js",
   "bin": "mw-md2pdf-theme",
